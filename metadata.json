@@ -1,0 +1,6 @@
+{
+  "name": "ExplainPay: Explainable AI for Real-Time UPI Fraud Alerts",
+  "description": "Mock UPI payment app powered by Explainable AI to evaluate transaction fraud risk, explain top risk factors, and provide Allow, Warn, or Block guidance in English, Hindi, and Marathi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
